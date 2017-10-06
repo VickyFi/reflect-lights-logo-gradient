@@ -1,0 +1,15 @@
+html,body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Lato', sans-serif;
+  /*background: linear-gradient(to right, #5afff0, #46ffff, #c8d7ff, #f5e1ff, #ffebe1, #fffabe);*/
+  background: black;
+}
+
+
+
+.container{
+  width:130px;
+  height:130px;
+}
